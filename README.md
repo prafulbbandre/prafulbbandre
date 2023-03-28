@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **KOTLIN**
 
-- 🤝 I’m looking for help with **ANDROID DEVELOPMENT**
+- 🤝 I’m looking for help with **IOS DEVELOPMENT**
 
 - 💬 Ask me about **HTML, CSS, C++**
 
