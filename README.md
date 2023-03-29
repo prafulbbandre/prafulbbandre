@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **ANDROID DEVELOPMENT**
 
-- 💬 Ask me about **HTML, CSS, C++**
+- 💬 Ask me about **HTML, CSS, C++, KOTLIN**
 
 - 📫 How to reach me **prafulbbandre2001@gmail.com**
 
