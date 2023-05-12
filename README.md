@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafulbbandre" alt="prafulbbandre" /></a> </p>
 
-- 🌱 I’m currently learning **KOTLIN**
+- 🌱 I’m currently learning **KOTLIN ,JS and TS**
 
 - 🤝 I’m looking for help with **IOS DEVELOPMENT**
 
-- 💬 Ask me about **HTML, CSS, C++, KOTLIN**
+- 💬 Ask me about **HTML, CSS, C++, KOTLIN, Python**
 
 - 📫 How to reach me **prafulbbandre2001@gmail.com**
 
